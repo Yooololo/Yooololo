@@ -3,8 +3,8 @@
 </p>
 
 <p> Contact me:
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' />
+<a href='https://www.linkedin.com/in/lorenzo-blanda/'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' linkto />
 <img src="https://aleen42.github.io/badges/src/wechat.svg" alt='WeChat' />
 </p>
 

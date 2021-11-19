@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt='Python' />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yooololo&theme=blue-green" alt='stats' />
 <img src="https://github-readme-stats.vercel.app/api?username=Yooololo&theme=blue-green" alt='stats' />
 
 - 📫 How to reach me: https://www.linkedin.com/in/lorenzo-blanda/ // lorenzoblanda17@gmail.com

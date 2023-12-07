@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" height="200px" src="https://raw.githubusercontent.com/Yooololo/imagenesquemesirven/main/HelloThere.jpg" alt='Hello There 👋👋' />
+  <img height="400px" src="https://raw.githubusercontent.com/Yooololo/imagenesquemesirven/main/HelloThere.jpg" alt='Hello There 👋👋' />
 </p>
 
 

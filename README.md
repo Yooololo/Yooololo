@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yooololo/imagenesquemesirven/main/HelloThere.jpg" alt='Hello There 👋👋' />
+  <img width="200px" height="200px" src="https://raw.githubusercontent.com/Yooololo/imagenesquemesirven/main/HelloThere.jpg" alt='Hello There 👋👋' />
 </p>
 
 
@@ -33,16 +33,7 @@
  
 <p> - 📫 How to reach me: 
 <a "mailto: lorenzoblanda17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' /></a>
-<a href='https://www.linkedin.com/in/lorenzo-blanda/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn'/></a>
-</p>
-<p>
-- 😄 Pronouns: he/him
-</p>
-<p>
-- ⚡ Fun fact: Member of Mensa International
-</p>
-<p>
-  - :earth_americas: Portfolio: Soon
+<a href='https://www.linkedin.com/in/lorenzoarianblanda/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn'/></a>
 </p>
 
 
